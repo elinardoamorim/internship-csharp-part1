@@ -1,0 +1,8 @@
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe.config
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.exe
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\bin\Debug\ProjetoCSharp.pdb
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.AssemblyReference.cache
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.exe
+C:\Users\Theo\Documents\EstagioLead\ProjetoCSharp\ProjetoCSharp\obj\Debug\ProjetoCSharp.pdb
